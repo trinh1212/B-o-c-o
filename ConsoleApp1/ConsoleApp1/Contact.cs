@@ -43,6 +43,7 @@ namespace ConsoleApp1
 
         public void SetDiaChi(string diachi)
         {
+            dit me m trịnh
             this.diachi = diachi;
         }
 
